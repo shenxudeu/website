@@ -1,9 +1,6 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke
-[submodule "themes/navigator"]
-	path = themes/navigator
-	url = https://github.com/themefisher/navigator-hugo
 [submodule "themes/elate"]
 	path = themes/elate
 	url = https://github.com/saey55/hugo-elate-theme
