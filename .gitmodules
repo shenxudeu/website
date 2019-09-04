@@ -1,0 +1,18 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke
+[submodule "themes/navigator"]
+	path = themes/navigator
+	url = https://github.com/themefisher/navigator-hugo
+[submodule "themes/elate"]
+	path = themes/elate
+	url = https://github.com/saey55/hugo-elate-theme
+[submodule "themes/grayscale"]
+	path = themes/grayscale
+	url = https://github.com/runningstream/hugograyscale
+[submodule "themes/meghna-hugo"]
+	path = themes/meghna-hugo
+	url = https://github.com/themefisher/meghna-hugo
+[submodule "themes/hugo-theme-cleanwhite"]
+	path = themes/hugo-theme-cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite
